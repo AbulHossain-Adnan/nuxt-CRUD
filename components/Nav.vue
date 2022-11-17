@@ -25,6 +25,11 @@
             >My Items <span class="sr-only">(current)</span></NuxtLink
           >
         </li>
+        <li class="nav-item active">
+          <NuxtLink to="/add-product" class="nav-link"
+            >Add product <span class="sr-only">(current)</span></NuxtLink
+          >
+        </li>
       </ul>
     </div>
   </nav>
